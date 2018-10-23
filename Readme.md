@@ -112,6 +112,7 @@ Important notes :
 ### Requirement
 * PHP 7.X
 * composer
+* play the SQL script config/playlist.sql
 * create config/config.ini
 [DataBase]
 db_driver = mysql
@@ -176,3 +177,5 @@ mode :
    * Method : PUT
    * Format :
         * video_id : int
+        
+        
