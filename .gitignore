@@ -1,0 +1,10 @@
+## ide special file
+# IntelliJ project files
+.idea
+*.iml
+.project
+.buildpath
+*.db
+
+# Config
+**/config/*
